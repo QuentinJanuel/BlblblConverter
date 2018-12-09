@@ -1,0 +1,15 @@
+body {
+	background-color: #CCC;
+	max-width: 50%;
+	margin: auto;
+	text-align: center;
+	overflow-wrap: break-word;
+}
+
+h2 {
+	margin: 10px;
+}
+
+textarea {
+	resize: none;
+}
